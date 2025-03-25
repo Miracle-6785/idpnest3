@@ -6,7 +6,9 @@ metadata:
   annotations:
     
     jenkins.io/job-full-name: idpnest3-org/idpnest3-job
-    
+    "datadoghq.com/dashboard-url": "https://p.ap1.datadoghq.com/sb/8d681aca-0881-11f0-bf95-f237726dd4d7-e5e223780d3b6d5e8b6ceab2f44596e0"
+    "datadoghq.com/site": "ap1.datadoghq.com"
+    "datadoghq.com/graph-token": "d4d1bc5df89c9ddad67ae6a172f1aec1940358bcff1927ae0698396ea19bd128"
 
     
     sonarqube.org/project-key: default/idpnest3
